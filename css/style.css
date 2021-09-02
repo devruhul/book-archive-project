@@ -1,0 +1,8 @@
+.card {
+  background-color: salmon;
+  border: 2px solid cornflowerblue;
+}
+img.card-img-top.img-fluid {
+  height: 200px;
+  border-radius: 15px;
+}
